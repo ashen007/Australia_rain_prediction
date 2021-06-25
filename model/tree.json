@@ -1,0 +1,98 @@
+{
+  "index": 4,
+  "value": 74.23985490296641,
+  "left": {
+    "index": 0,
+    "value": 1.8,
+    "left": {
+      "index": 2,
+      "value": 56.0,
+      "left": {
+        "index": 4,
+        "value": 67.0,
+        "left": {
+          "index": 1,
+          "value": 7.7,
+          "left": 0,
+          "right": 0
+        },
+        "right": {
+          "index": 6,
+          "value": 1019.8,
+          "left": 0,
+          "right": 0
+        }
+      },
+      "right": {
+        "index": 3,
+        "value": 64.0,
+        "left": {
+          "index": 3,
+          "value": 22.0,
+          "left": 1,
+          "right": 0
+        },
+        "right": {
+          "index": 7,
+          "value": 7.0,
+          "left": 0,
+          "right": 1
+        }
+      }
+    },
+    "right": {
+      "index": 2,
+      "value": 50.0,
+      "left": {
+        "index": 3,
+        "value": 83.0,
+        "left": {
+          "index": 6,
+          "value": 1018.3,
+          "left": 0,
+          "right": 0
+        },
+        "right": {
+          "index": 3,
+          "value": 96.0,
+          "left": 1,
+          "right": 0
+        }
+      },
+      "right": {
+        "index": 1,
+        "value": 13.0,
+        "left": {
+          "index": 3,
+          "value": 51.0,
+          "left": 0,
+          "right": 1
+        },
+        "right": 0
+      }
+    }
+  },
+  "right": {
+    "index": 7,
+    "value": 1.0,
+    "left": 0,
+    "right": {
+      "index": 0,
+      "value": 0.2,
+      "left": {
+        "index": 2,
+        "value": 26.0,
+        "left": 1,
+        "right": {
+          "index": 2,
+          "value": 31.0,
+          "left": 0,
+          "right": 1
+        }
+      },
+      "right": {
+        "index": 5,
+    "value": 1020.5,
+    "left": {
+      "index": 6, "value": 1004.8, "left": 1, "right": 1},
+    "right": 1}}}}
